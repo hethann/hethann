@@ -1,9 +1,9 @@
 
 <h1>Hello, I'm Ethan Wu! 👋</h1>
 <img align='right' src="https://c.tenor.com/bQCwwu0yF90AAAAi/developer-workstation.gif" height="230">
-<p><strong><em>I'm an aspiring Full-Stack Developer.</br>
+<p><strong><em>I'm an aspiring Full-Stack Developer.</br></br>
 💻 Computer Science at <a href="https://www.wit.edu">Wentworth Institute of Technology</a></br>
-⚙️ Incoming Software Development Intern at <a href="https://www.kyndryl.com">Kyndryl</a></em></strong></p>
+⚙️ Incoming Software Development Intern at <a href="https://www.kyndryl.com">Kyndryl</a></em></strong></p></br>
 
 
 ```javascript
