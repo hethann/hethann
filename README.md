@@ -8,7 +8,7 @@
 
 ```javascript
 const ethan = {
-  pronouns: "He" | "Him",
+  pronouns: "He/Him",
   code: ["Java", "Javascript", "HTML", "CSS", "Python"],
   inProgress: [
     {
