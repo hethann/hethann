@@ -8,16 +8,15 @@
 
 ```javascript
 const ethan = {
-  pronouns: "He" || "Him",
+  pronouns: "He" | "Him",
   code: ["Java", "Javascript", "HTML", "CSS", "Python"],
-  inProgress: [
-    {
-      webDev: ["React.js", "Node.js", "Express.js"],
-      mobileDev: ["Android Development"],
-      database: ["MySQL", "SQLite", "MongoDB"],
-    },
-  ],
+  inProgress: {
+    webDev: ["React.js", "Node.js", "Express.js"],
+    mobileDev: ["Android Development"],
+    database: ["MySQL", "SQLite", "MongoDB"],
+  },
 };
+
 ```
 
 <p>Can reach me via <a href="https://www.linkedin.com/in/ethanwu13">LinkedIn</a>.</p>
