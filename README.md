@@ -1,5 +1,5 @@
 
-<h1>Hello, I'm Ethan Wu! 👋</h1>
+<h1>Hi, I'm Ethan Wu! 👋</h1>
 <img align='right' src="https://c.tenor.com/bQCwwu0yF90AAAAi/developer-workstation.gif" height="230">
 <p><strong><em>I'm an aspiring Full-Stack Developer.</br></br>
 💻 Computer Science at <a href="https://www.wit.edu">Wentworth Institute of Technology</a></br>
