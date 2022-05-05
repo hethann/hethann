@@ -19,7 +19,7 @@ const ethan = {
 
 ```
 
-<p>Can reach me via <a href="https://www.linkedin.com/in/ethanwu13">LinkedIn</a>.</p>
+<p>Reach me via <a href="https://www.linkedin.com/in/ethanwu13">LinkedIn</a>.</p>
 
 
 <!-- - 👋 Hi, I’m @wue1atwit
