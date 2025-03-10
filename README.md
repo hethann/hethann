@@ -3,7 +3,7 @@
 <img align='right' src="https://c.tenor.com/bQCwwu0yF90AAAAi/developer-workstation.gif" height="230">
 <p><strong><em>I'm an aspiring Full-Stack Developer.</br></br>
 💻 Computer Science at <a href="https://www.wit.edu">Wentworth Institute of Technology</a></br>
-⚙️ Application Developer Coop at <a href="https://www.kyndryl.com">Kyndryl</a></em></strong></p></br>
+⚙️ Associate Software Engineer at <a href="https://www.ukg.com">UKG</a></em></strong></p></br>
 
 
 ```javascript
